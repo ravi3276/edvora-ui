@@ -1,0 +1,20 @@
+.main{
+    flex:0.7;
+    padding-right: 15px;
+    width: 1%;
+}
+.main > h1{
+    color: whitesmoke;
+    text-transform: capitalize;
+    padding:20px 10px;
+    font-size:24px;
+    font-weight:700;
+}
+
+.main > h4{
+    color: #A5A5A5;
+    text-transform: capitalize;
+    font-size:18px;
+    font-weight:600;
+    padding-left:10px;
+}
